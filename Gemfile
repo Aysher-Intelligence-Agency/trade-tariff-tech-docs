@@ -19,7 +19,7 @@ gem "git"
 gem "html-pipeline"
 gem "mdl"
 
-gem "govuk_publishing_components"
+gem "govuk_publishing_components", ">= 38.1.0"
 
 # GitHub API
 gem "faraday-http-cache"
