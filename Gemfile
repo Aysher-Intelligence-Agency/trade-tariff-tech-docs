@@ -17,7 +17,7 @@ gem "middleman-search_engine_sitemap"
 
 gem "git"
 gem "html-pipeline"
-gem "mdl"
+gem "mdl", ">= 0.14.0"
 
 gem "govuk_publishing_components"
 
