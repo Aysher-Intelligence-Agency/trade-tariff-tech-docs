@@ -22,9 +22,9 @@ gem "mdl"
 gem "govuk_publishing_components"
 
 # GitHub API
-gem "faraday-http-cache"
+gem "faraday-http-cache", ">= 2.6.0"
 gem "faraday_middleware"
-gem "octokit"
+gem "octokit", ">= 9.0.0"
 
 group :development do
   gem "byebug"
